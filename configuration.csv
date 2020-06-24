@@ -1,0 +1,2 @@
+image_load,width,height,test_percent,vedio_load,epoch,batchsize,learning_rate,stride,stop_limit,whether_cover,fps
+(images fold name),96,96,0.05,(vedio doc name),30,32,0.0005,32,1000,0,20
