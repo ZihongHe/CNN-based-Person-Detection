@@ -24,8 +24,11 @@ loaded in.
 
 it will generate a video (XXX_detection.mp4) of detecting the given person with a red bounding box
 
+3, configuration
 
-3, technique approach
+usage of each configuration parameters could be viewed in the main sections in main.py
+
+4, technique approach
 
 Step 1:  read in given-person image to be face imageset;  
 
