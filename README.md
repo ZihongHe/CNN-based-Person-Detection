@@ -1,4 +1,4 @@
-CNN-based-Person-Detection
+Video-Given-Person-Detection based on algorithm similar to Region CNN
 
 
 1, how to run
@@ -17,7 +17,7 @@ ensure configuration.csv are in the same path with main.py
 
 it can only support mp4 format video
 
-you could also modify configuration.csv to change vedio, video fps and any other variables
+you could also modify configuration.csv to change video, video fps and any other variables
 
 the program will automatically generate the model doc and the next time it will be automatically
 loaded in.
