@@ -1,4 +1,4 @@
-Video-Specific-Person-Detection based on algorithm similar to Region CNN
+Video-Specific-Person-Detection based on algorithm similar to Region-CNN
 
 
 1, how to run
